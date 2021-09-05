@@ -5,12 +5,12 @@ A Text to Morse to Text Convertor
 
 ## Installation on Windows:
 * `git clone https://github.com/snehangsude/MorseCodeConverter.git`
-* `cd Morse`
+* `cd MorseCodeConverter`
 * `python main.py`
 
 ## Installation on Linux and Unix like OS:
 * `git clone https://github.com/snehangsude/MorseCodeConverter.git`
-* `cd Morse`
+* `cd MorseCodeConverter`
 * `python3 main.py`
 
 ## Interface GIF
